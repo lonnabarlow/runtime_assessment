@@ -19,7 +19,7 @@ function addToZero(arr, num) {
 //   let addToZeroResult = addToZero([5, 3, 6, 1, 4], 0)
 //   console.log(addToZeroResult)
 //runtime O(n)
-//space O(n)
+//space O(1)
 
 
 const checkUnique = (str) => { 
